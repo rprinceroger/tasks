@@ -22,17 +22,25 @@ Nonetheless, if you went to a different website (URL) and used the GHL's calenda
 
 - [x] Switch to hardcoding (HTML, CSS, JS).
 
+<hr>
 
 [Limited to GHL Page Builder](https://ideas.gohighlevel.com/forms/p/ditch-iframe-for-a-proper-form-embed-code)
 
 [Params with GHL](https://help.gohighlevel.com/support/solutions/articles/48001164119-how-to-use-url-parameters-in-forms)
 
+<hr>
+
 [Params with WordPress Elementor - Elementor Pro](https://www.youtube.com/watch?v=CBLIWeSmz30)
+
+
 [Redirect URL with WordPress Elementor - Addon](https://theplusaddons.com/docs/set-elementor-display-condition-based-on-url-string-or-parameters/)
+
+<hr>
 
 [Hardcoding](https://jmp.sh/6yRQu8Dh)
 > We need to give up the WordPress and Build our own webpage.
 
+<hr>
 
 > [!Warning]
 > Those are just in theory no implementation that is possible.
