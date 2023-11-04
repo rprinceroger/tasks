@@ -4,6 +4,9 @@
 
 - [x] According to GHL support, it is not yet possible to use the built-in sticky contact feature as it applies only to specific forms. Not possible to pass/reuse information from one form to another form with a calendar.
 
+<br>
+<br>
+
 **How is it not possible when GHL leaves the browser cache with its Sticky Contact feature enabled?**
 - GHL's Sticky Contact featured generate an encrypted cache for security and the same GHL form(means without calendar) can only reuse the encrypted cache, the reason when the other user uses the same browser without clearing the cache it auto populates the information of the previous user who submitted the form.
 Nonetheless, if you went to a different website (URL) and used the GHL's calendar form. This new form won't be able to recognize the encrypted cache that was saved by the other GHL form in the local storage of the browser.
