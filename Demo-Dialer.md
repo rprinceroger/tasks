@@ -13,4 +13,4 @@ https://demo-dialer.vercel.app/
 
 ## Tech stack:
  - For the backend it was built with `Node` and `Express` then deployed through `Render`.
- - For the frontend it was built with `React`, `Bootstrap` and `Axiom` then deployed through `Vercel`.
+ - For the frontend it was built with `React`, `Bootstrap` and `Axios` then deployed through `Vercel`.
