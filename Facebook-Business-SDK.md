@@ -17,10 +17,10 @@ As discussed with Sir JP, these information should reflect on our dashboard in t
 - [x] Cost Per Lead that we can manipulate.
 
 Reference links: 
-[Ad Account ID](https://adsmanager.facebook.com/adsmanager/manage/campaigns)
-[Create a Facebook Developer App - App ID](https://developers.facebook.com/)
-[App Secret](https://developers.facebook.com/apps/)
-[Developer Access Token](https://developers.facebook.com/tools/)
+- [Ad Account ID](https://adsmanager.facebook.com/adsmanager/manage/campaigns)
+- [Create a Facebook Developer App - App ID](https://developers.facebook.com/)
+- [App Secret](https://developers.facebook.com/apps/)
+- [Developer Access Token](https://developers.facebook.com/tools/)
 
 Here's the steps as follows:
 <br>
