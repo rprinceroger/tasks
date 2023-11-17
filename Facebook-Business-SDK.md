@@ -7,14 +7,14 @@
 > 3. App Secret
 > 4. Developer Access Token 
 
-By using the Facebook Marketing SDK we would be able to fetch the CPC (cost per click), CPM (cost per mille - 1,000 impressions), CPA (cost per action) and CVR(convertion rate, though will be creating our own computation for the cost per lead instead using the CVR of Facebook).
+By using the Facebook Marketing SDK we would be able to fetch the CPC (cost per click), CPM (cost per mille - 1,000 impressions), CPA (cost per action) and CVR(convertion rate, though will be creating our own computation for the cost per lead).
 
 As discussed with Sir JP, these information should reflect on our dashboard in the following computation: 
 
 - [x] Total Cost / CPC
 - [x] Total Cost / CPM
 - [x] Total Cost / CPA
-- [x] Cost Per Lead that we can manipulate.
+- [x] Cost Per Lead on our own computation.
 
 Reference links: 
 - [Ad Account ID](https://adsmanager.facebook.com/adsmanager/manage/campaigns)
