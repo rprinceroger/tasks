@@ -16,12 +16,14 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
  - Once Homebrew is installed open Homebrew and execute the command: 
+```
 brew tap microsoft/powershell
 brew install --cask powershell
-
+```
  - Once PowerShell is installed execute the command: 
+```
 pwsh
-
+```
 
 ## Here's a how to read the CMD and PowerShell report: 
 
