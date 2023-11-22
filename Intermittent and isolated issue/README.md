@@ -35,5 +35,10 @@ pwsh
 
 **RAM Consumtion** - this give you the idea if they are using too much memory of their PC and it is about to crash. (exp. below 20.99999)
 
+![CMD - Bat file report](https://github.com/rprinceroger/tasks/assets/138009208/d87aa25a-48cd-4158-b763-8f86e2e6aeaf)
+
+
+![PowerShell file report](https://github.com/rprinceroger/tasks/assets/138009208/724f8397-26d4-4944-a429-d2acd3a0d77c)
+
 
 > PS. When I was a Technical Support, we identify these type of issue as `User Issue` and if all the `hardware` and user `behavior` was meet. This will be tagged as `Open Ticket` for as long as we're using the same tools. These types of issue do exist, from the time I join the company until I leave. As a tech, you'll encounter several issues and attempt to fix, if not minimize the occurrence of the said issue. Having a low specs but knowing how to maintain it is far better than having a high specs but don't know how to maintain it.
