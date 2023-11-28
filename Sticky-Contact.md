@@ -50,5 +50,5 @@ Nonetheless, if you went to a different website (URL) and used the GHL's calenda
 
 - [ ] Remove the iFrame feature from GHL on our WordPress website and use Elementor form that has Dynamic Request Params featured. This is a concept of Redirect URL and URL Parameter with Elementor. We're still in the process of developing this theory and we're working on it.
 
-- [ ] Why are we not fetching the data from other third-party forms or self-made forms that we can feed directly into our GHL tool for statistics?
+- This is not possible due to difference of their origin - Why are we not fetching the data from other third-party forms or self-made forms that we can feed directly into our GHL tool for statistics?
  
